@@ -1,8 +1,8 @@
 👋 Hi, I’m @arun-kumar297!
 
-👀 I’m interested in Fullstack developer roles.
+👀 I’m interested in Python developer roles.
 
-🌱 I’m currently learning a MERN stack development course.
+🌱 I’m currently learning a Python web development course.
 
 💞️ I’m looking to collaborate on projects related to web development.
 
